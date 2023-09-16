@@ -1,0 +1,114 @@
+---
+object: card
+id: 3194ae81-90fb-49e9-90de-9d161e296770
+oracle_id: 2109c49e-dc81-4a10-8265-3cf8c90db523
+multiverse_ids: []
+tcgplayer_id: 38403
+cardmarket_id: 21446
+name: Vampire Nocturnus
+lang: en
+released_at: '2009-07-16'
+uri: https://api.scryfall.com/cards/3194ae81-90fb-49e9-90de-9d161e296770
+scryfall_uri: https://scryfall.com/card/pm10/118%E2%98%85/vampire-nocturnus?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/3194ae81-90fb-49e9-90de-9d161e296770.jpg?1605361616
+  normal: https://cards.scryfall.io/normal/front/3/1/3194ae81-90fb-49e9-90de-9d161e296770.jpg?1605361616
+  large: https://cards.scryfall.io/large/front/3/1/3194ae81-90fb-49e9-90de-9d161e296770.jpg?1605361616
+  png: https://cards.scryfall.io/png/front/3/1/3194ae81-90fb-49e9-90de-9d161e296770.png?1605361616
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/3194ae81-90fb-49e9-90de-9d161e296770.jpg?1605361616
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/3194ae81-90fb-49e9-90de-9d161e296770.jpg?1605361616
+mana_cost: "{1}{B}{B}{B}"
+cmc: 4.0
+type_line: Creature — Vampire
+oracle_text: |-
+  Play with the top card of your library revealed.
+  As long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 37d3c9b9-0583-425e-8c14-10d4d4a28a57
+set: pm10
+set_name: Magic 2010 Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/37d3c9b9-0583-425e-8c14-10d4d4a28a57
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apm10&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pm10?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3194ae81-90fb-49e9-90de-9d161e296770/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2109c49e-dc81-4a10-8265-3cf8c90db523&unique=prints
+collector_number: 118★
+digital: false
+rarity: mythic
+watermark: set
+flavor_text: '"Your life will set with the sun."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Andrew Robinson
+artist_ids:
+- cb577db7-7f47-4f78-8682-6eaef8a77bd1
+illustration_id: 224c9e92-551a-4933-87cc-9c8f237cf44a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 5646
+penny_rank: 8431
+prices:
+  usd: 
+  usd_foil: '7.58'
+  usd_etched: 
+  eur: 
+  eur_foil: '4.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vampire+Nocturnus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vampire+Nocturnus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vampire+Nocturnus
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38403?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vampire+Nocturnus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vampire+Nocturnus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

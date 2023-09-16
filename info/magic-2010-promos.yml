@@ -1,0 +1,16 @@
+---
+object: set
+id: 37d3c9b9-0583-425e-8c14-10d4d4a28a57
+code: pm10
+name: Magic 2010 Promos
+uri: https://api.scryfall.com/sets/37d3c9b9-0583-425e-8c14-10d4d4a28a57
+scryfall_uri: https://scryfall.com/sets/pm10
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apm10&unique=prints
+released_at: '2009-07-16'
+set_type: promo
+card_count: 3
+parent_set_code: m10
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/m10.svg?1694404800
